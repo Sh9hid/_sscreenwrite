@@ -1,10 +1,10 @@
 ---
-layout: category_index
+layout: home
 title: Writing
 permalink: /writing/
 category_name: writing
----
 
+---
 <!--
 
 Set the front matter:
